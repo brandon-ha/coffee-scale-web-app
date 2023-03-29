@@ -70,3 +70,13 @@ This project was made possible by the following projects and people (amongst oth
 ## License
 
 Distributed under the MIT License
+
+## Todo
+
+- Display flow rate as line
+  - make line visibility toggleable 
+- auto connect to first available local device
+- Fetch time and/or sync timer
+  - Display timer at all time
+- Tare button
+- Change start recording -> stop recording button during recording
