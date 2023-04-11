@@ -80,3 +80,4 @@ Distributed under the MIT License
   - Display timer at all time
 - Tare button
 - Change start recording -> stop recording button during recording
+- Add calibration wizard for scale offset and scale factor
